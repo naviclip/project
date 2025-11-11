@@ -1,7 +1,7 @@
 #  Dungeons and Starvation
 
 ## Repository
-<[Dungeons and Starvation Repository](https://github.com/naviclip/Final-Project)>
+[Dungeons and Starvation Repository](https://github.com/naviclip/Final-Project)
 
 ## Description
 My project will be a 32-bit game that features both traits of a visual novel and a time-based minigame with movement and 
