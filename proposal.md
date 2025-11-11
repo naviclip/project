@@ -50,29 +50,21 @@ Minimal Viable Outcome:
 ## Milestones
 
 - Week 1
-  1. Set up file and asset folders
-  2. Implement the main game loop
-  3. Create left, right and still character sprites, label correctly and store in folder
-  4. Create background, label correctly and store in folder
-  5. Implement WASD movement
-  6. Create food sprite, label correctly and store in folder
-  7. Implement game system with title screen, game, pause, and end
+  1. Set up file and asset folders and implement the main game loop
+  2. Create left, right and still character sprites, food sprites and background, label correctly and store in folder
+  3. Implement WASD movement and game system with title screen, game, pause, and end
 
 - Week 2
-  1. Implement the hunger system
-  2. Implement food class
-  3. Implement countdown timer
-  4. Add goal area trigger
-  5. Create character portraits for dialogue
+  1. Implement the hunger system, food class, countdown timer
+  2. Add goal area trigger
+  3. Create character portraits for dialogue
 
 - Week 3
-  1. Add real title screen with start and quit
+  1. Add real title and end screen with start and quit
   2. Add real pause menu with resume, restart and return to title screen
-  3. Add real end screen with restart and return to title screen
-  4. Add dialogue with textbpx display, character portrait and advance key
+  3. Add dialogue with textbpx display, character portrait and advance key
 
 - Week 4 (Final)
   1. Build map layout with obstacles
-  2. Playtest for bugs
-  3. Add fade transition between scenes if time allows
-  4. Create video demo
+  2. Add fade transition between scenes if time allows
+  3. Create video demo
