@@ -1,7 +1,7 @@
 # Dungeons and Starvation
 
 ## Demo
-Demo Video: <URL>
+Demo Video: https://youtu.be/rqiTc3ad_Gs
 
 ## GitHub Repository
 GitHub Repo: https://github.com/naviclip/Dungeons-and-Starvation
