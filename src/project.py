@@ -25,7 +25,7 @@ class Game:
     def __init__(self):
         pygame.init()
         self.screen = pygame.display.set_mode((W, H))
-        pygame.display.set_caption("Agnis Adventure")
+        pygame.display.set_caption("Dungeons and Starvation")
         self.clock = pygame.time.Clock()
         self.state = MENU
         self.camera = 0
